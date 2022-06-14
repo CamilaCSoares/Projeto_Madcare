@@ -11,7 +11,7 @@
 
 Repositório contendo o 3° Site responsivo para estudo concluído, O desenvolvi usando HTML, CSS e Javascript, segui o tutorial de um canal no YouTube recomendado pelo meu professor do Instituto Proa; Jailson Costa dos Santos. Esse projeto um dos três proposto, os outros dois seguem abaixo:
 
-- Segue o link do tutorial: <a href="https://lnkd.in/edWCdsGp" target="_blank">https://lnkd.in/edWCdsGp<a>
+- Segue o link do tutorial: <a href="https://lnkd.in/edWCdsGp" target="_blank">https://lnkd.in/edWCdsGp</a>
 
 <br>
 <div height="180em">
