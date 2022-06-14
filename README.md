@@ -15,6 +15,9 @@ Repositório contendo o 3° Site responsivo para estudo concluído, O desenvolvi
 
 <br>
 <div height="180em">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=JavaScript&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Cafeteria.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=AlgoritmoAulas&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Mercearia.git)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=Projeto_Cafeteria&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Cafeteria.git) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=Projeto_Mercearia&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Mercearia.git)
