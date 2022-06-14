@@ -11,13 +11,10 @@
 
 Repositório contendo o 3° Site responsivo para estudo concluído, O desenvolvi usando HTML, CSS e Javascript, segui o tutorial de um canal no YouTube recomendado pelo meu professor do Instituto Proa; Jailson Costa dos Santos. Esse projeto um dos três proposto, os outros dois seguem abaixo:
 
-- Segue o link do tutorial: https://lnkd.in/edWCdsGp
+- Segue o link do tutorial: <a href="https://lnkd.in/edWCdsGp" target="_blank">https://lnkd.in/edWCdsGp<a>
 
 <br>
 <div height="180em">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=JavaScript&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Cafeteria.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=AlgoritmoAulas&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Mercearia.git)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=Projeto_Cafeteria&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Cafeteria.git) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=Projeto_Mercearia&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Mercearia.git)
