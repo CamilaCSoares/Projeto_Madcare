@@ -14,6 +14,9 @@ Repositório contendo o 3° Site responsivo para estudo concluído, O desenvolvi
 - Segue o link do tutorial: https://lnkd.in/edWCdsGp
 
 <br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=Projeto_Cafeteria&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Cafeteria.git)
+<div height="180em">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=Projeto_Cafeteria&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Cafeteria.git) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=Projeto_Mercearia&theme=dracula)](https://github.com/CamilaCSoares/Projeto_Mercearia.git)
+  
+<div>
